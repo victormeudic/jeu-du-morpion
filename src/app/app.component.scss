@@ -1,0 +1,28 @@
+.case-state {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.column {
+  display: flex;
+  justify-content: center;
+}
+
+.gagné {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin-top: 20px;
+  font-family: Arial;
+}
+
+.perdue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin-top: 20px;
+  font-family: Arial;
+}
